@@ -1,0 +1,25 @@
+# Keil MDK 编译产物
+MDK-ARM/phc/
+MDK-ARM/*.lst
+MDK-ARM/RTE/
+*.o
+*.crf
+*.d
+*.axf
+*.hex
+*.bin
+*.elf
+*.htm
+*.lnp
+*.build_log.htm
+*.dep
+*.iex
+*.uvguix.*
+*.bak
+
+# IDE 配置
+.vscode/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
